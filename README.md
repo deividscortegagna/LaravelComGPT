@@ -1,4 +1,4 @@
-# Instalando o projeto
+# Instalando o Projeto
 
 O projeto se utiliza de contêineres Docker, através do pacote _Laravel Sail_ para facilitar a configuração do ambiente de desenvolvimento. Portanto, é necessário que já possua o Docker e o Docker Compose instalados na máquina.
 
