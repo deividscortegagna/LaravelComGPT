@@ -1,2 +1,1 @@
-# LaravelComGPT
-LaravelComGPT
+
